@@ -1,5 +1,3 @@
-﻿// uv2cube.cpp : このファイルには 'main' 関数が含まれています。プログラム実行の開始と終了がそこで行われます。
-//
 
 #include <iostream>
 #include "kb_cv_uv2cube.h"
@@ -178,7 +176,6 @@ int main_uv2cube(int argc, char* argv[])
 	}
 
 	return 0;
-	//return main2(argc, argv);
 }
 
 int main(int argc, char* argv[])
